@@ -9,6 +9,13 @@ img {
    width: 170px;
 }
 h2{
-    float: right;
-    width: 400px;
+    text-align: right;
+    margin-right: 150px;
+}
+div.erdekesseg {
+    padding: 5px;
+    background-color: grey;
+}
+#kozepre{
+    text-align: right;
 }
